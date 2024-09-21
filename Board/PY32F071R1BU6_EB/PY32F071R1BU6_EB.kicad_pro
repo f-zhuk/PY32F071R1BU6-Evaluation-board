@@ -386,6 +386,18 @@
     [
       "6ebcf0b3-5276-46f0-becd-e14b94d1414d",
       "Root"
+    ],
+    [
+      "2a0aa613-51e5-4a2c-b523-c90d450ee43e",
+      "PWR"
+    ],
+    [
+      "6f63720f-fd2e-4435-bf00-68f38bf09751",
+      "MCU"
+    ],
+    [
+      "b90840b7-0b6b-4b5f-ba7e-91d5e664dc3e",
+      "USER"
     ]
   ],
   "text_variables": {}

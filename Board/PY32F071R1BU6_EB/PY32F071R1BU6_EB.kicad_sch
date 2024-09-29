@@ -35,6 +35,96 @@
 				(justify left top)
 			)
 		)
+		(pin "3V3" input
+			(at 76.2 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "54ec1a6e-9174-4d7c-8183-09114be66700")
+		)
+		(pin "GND" input
+			(at 76.2 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8dcb2731-1957-4af3-a52a-7ec116c2d3df")
+		)
+		(pin "D-" output
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "37e82be7-66fd-4264-a542-412028ec9fdb")
+		)
+		(pin "D+" output
+			(at 76.2 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3635b550-ca6f-46f8-af9d-0c20e70b9725")
+		)
+		(pin "CC2" output
+			(at 76.2 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b113011d-1001-472e-b3b4-c2432bfb157f")
+		)
+		(pin "CC1" output
+			(at 76.2 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0d7d2fde-aa4e-4fdd-9394-cd9f97449dc8")
+		)
+		(pin "CHG" output
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "801bbbb6-3ca8-4c4d-9335-dac6f3b4a41c")
+		)
+		(pin "USB_V" output
+			(at 76.2 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "96bcdee4-ea7d-4b67-be9e-8b53c5ab4354")
+		)
+		(pin "BAT_V" output
+			(at 76.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "830e4aef-2a0c-46f5-bb7e-4480d9f1affd")
+		)
 		(instances
 			(project "PY32F071R1BU6_EB"
 				(path "/6ebcf0b3-5276-46f0-becd-e14b94d1414d"

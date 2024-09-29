@@ -3779,7 +3779,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "1k"
 			(at 118.11 168.91 90)
 			(effects
 				(font

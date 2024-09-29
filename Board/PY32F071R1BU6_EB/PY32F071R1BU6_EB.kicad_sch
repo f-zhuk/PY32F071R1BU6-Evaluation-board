@@ -163,6 +163,96 @@
 				(justify left top)
 			)
 		)
+		(pin "3V3" input
+			(at 127 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fcbede6b-3f75-4fcc-99ca-01dde53d6238")
+		)
+		(pin "D-" input
+			(at 127 76.2 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "069a6974-d263-488f-9d14-8415dd09808a")
+		)
+		(pin "D+" input
+			(at 127 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "90dcad4e-e24a-4ce7-952c-d05562065367")
+		)
+		(pin "USB_V" input
+			(at 127 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "70bb3e1f-c3b7-4d9e-ab03-87ee14c88f56")
+		)
+		(pin "CC1" input
+			(at 127 81.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b8f40421-1d9f-40ad-a16a-101e69976018")
+		)
+		(pin "CHG" input
+			(at 127 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1f0bd14c-3283-4b17-83ee-61dcd0e92e1b")
+		)
+		(pin "CC2" input
+			(at 127 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f72e9390-3df4-4ddf-a841-c1e40c81f1d5")
+		)
+		(pin "BAT_V" input
+			(at 127 91.44 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "38311d7c-8558-4b30-84b4-1a0c17d8c62c")
+		)
+		(pin "GND" input
+			(at 127 124.46 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5bdfe36e-a684-4a18-b391-c44f60e7dd95")
+		)
 		(instances
 			(project "PY32F071R1BU6_EB"
 				(path "/6ebcf0b3-5276-46f0-becd-e14b94d1414d"

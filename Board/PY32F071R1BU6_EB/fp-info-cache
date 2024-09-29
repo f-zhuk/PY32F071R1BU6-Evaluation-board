@@ -1,4 +1,4 @@
-23769494617405632
+23771222251854092
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95871,6 +95871,13 @@ SMA SMD Female Jack Vertical
 0
 3
 2
+USER
+ST7735S_13P_0.96IN_80X160
+80X160 IPS Display
+
+0
+13
+13
 USER
 SW_SPST_CK_PTS641
 
